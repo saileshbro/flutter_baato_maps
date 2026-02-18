@@ -1,3 +1,11 @@
+## 2.0.0
+### **BREAKING** - Fork version bump to avoid upstream API conflicts
+- Use local `baato_api` path dependency for workspace compatibility with `package_info_plus` ^9.0.0
+
+## 1.1.1
+### **Changes**
+- Use local `baato_api` path dependency for workspace compatibility with `package_info_plus` ^9.0.0
+
 ## 1.1.0
 ### **BREAKING**
 - Migrate sprite discovery to `AssetManifest.loadFromAssetBundle`
